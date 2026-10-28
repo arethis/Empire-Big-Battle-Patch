@@ -1,4 +1,4 @@
-A lightweight executable that modifies the hardcoded memory allocation in Empire: Total War, bypassing the original 32,768 entity limit to allow for massive, stable battles with over 50,000 troops.
+A lightweight executable that modifies the hardcoded battle manager heap allocation in Empire: Total War, bypassing the original 32,768 entity limit to allow for massive, stable battles with over 50,000 troops.
 
 **Features**
 1. Automated Patching: Safely injects the 4 necessary hex modifications directly into Empire.exe.
